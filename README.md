@@ -18,6 +18,10 @@
 <p>
 I am a dedicated, professional, and hard-working web developer with
 freelance experience in building professional websites.
+Also a data-oriented Artificial Intelligence Engineer, fluent in
+C++ and Python, with a problem-solving attitude, an
+introspective attitude to projects, and a solid understanding of
+banking industry requirements.
 I am experienced in technologies like HTML, CSS, Next.js, React.js, Node,
 MongoDB and multiple others.
 </p>
