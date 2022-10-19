@@ -25,16 +25,16 @@ MongoDB and multiple others.
 ### Connect with me:
 
 <p>
-  <img src="https://img.icons8.com/color/2x/skype.png" width="40">username <b>bear</b>
+  <img src="https://img.icons8.com/color/2x/skype.png" width="40"><b>bear</b>
 </p>
 <p>
-  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40">username <b>bear49193</b>
+  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40"><b>bear49193</b>
 </p>
 <p>
-  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">username <b>josebarrry</b>
+  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40"><b>josebarrry</b>
 </p>
 <p>
-  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40">username <b>bear25#3842</b>
+  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40"><b>bear25#3842</b>
 </p>
 <a href="mailto:rbeer199525@gmail.com" target="_blank">
   <img src="https://img.icons8.com/bubbles/2x/gmail.png" width="40">
