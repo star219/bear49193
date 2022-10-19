@@ -23,18 +23,18 @@ MongoDB and multiple others.
 </p>
 ### Connect with me:
 
-<a target="_blank">
-  <img src="https://img.icons8.com/color/2x/skype.png" width="40">bear
-</a>
-<a target="_blank">
-  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40">bear49193
-</a>
-<a target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">josebarrry
-</a>
-<a >
-  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40">bear25#3842
-</a>
+<p>
+  <img src="https://img.icons8.com/color/2x/skype.png" width="40">username::bear
+</p>
+<p>
+  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40">username::bear49193
+</p>
+<p>
+  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">username::josebarrry
+</p>
+<p>
+  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40">username::bear25#3842
+</p>
 <a href="mailto:rbeer199525@gmail.com" target="_blank">
   <img src="https://img.icons8.com/bubbles/2x/gmail.png" width="40">
 </a>
