@@ -29,7 +29,7 @@ MongoDB and multiple others.
 ### Connect with me:
 
 <p>
-  <img src="https://img.icons8.com/color/2x/skype.png" width="40"><b>bear</b>
+  <img src="https://img.icons8.com/color/2x/skype.png" width="40"><b>bear49193</b>
 </p>
 <p>
   <img src="https://img.icons8.com/color/2x/slack-new.png" width="40"><b>bear49193</b>
