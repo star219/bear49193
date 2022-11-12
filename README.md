@@ -44,9 +44,9 @@ MongoDB and multiple others.
   <img src="https://img.icons8.com/bubbles/2x/gmail.png" width="40">
 </a>
 
-Email: rbeer199525@gmail.com
-Skype: bear49193
-Discord: bear25#3842
+<p>Email: rbeer199525@gmail.com</p>
+<p>Skype: bear49193</p>
+<p>Discord: bear25#3842</p>
 
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
