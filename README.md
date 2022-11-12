@@ -28,25 +28,9 @@ MongoDB and multiple others.
 
 ### Connect with me:
 
-<p>
-  <img src="https://img.icons8.com/color/2x/skype.png" width="40"><b>bear49193</b>
-</p>
-<p>
-  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40"><b>bear49193</b>
-</p>
-<p>
-  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40"><b>josebarrry</b>
-</p>
-<p>
-  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40"><b>bear25#3842</b>
-</p>
-<a href="mailto:rbeer199525@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/bubbles/2x/gmail.png" width="40">
-</a>
-
-<p>Email: rbeer199525@gmail.com</p>
-<p>Skype: bear49193</p>
-<p>Discord: bear25#3842</p>
+ <p>Email: rbeer199525@gmail.com</p>
+ <p>Skype: bear49193</p>
+ <p>Discord: bear25#3842</p>
 
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
