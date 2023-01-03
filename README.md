@@ -29,10 +29,8 @@ MongoDB and multiple others.
 ### Connect with me:
 
  <p>Email: rbeer199525@gmail.com</p>
- <p>Skype: live:.cid.84144a3aa43198f4![image](https://user-images.githubusercontent.com/115407190/210422861-f316f9fb-5a65-4e82-b171-36de1bf8d9c6.png)
-</p>
- <p>Discord: willi49193#0449![image](https://user-images.githubusercontent.com/115407190/210423159-55772e5f-0848-47a1-aa03-ac1a4cca6864.png)
-</p>
+ <p>Skype: live:.cid.84144a3aa43198f4</p>
+ <p>Discord: willi49193#0449</p>
 
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
