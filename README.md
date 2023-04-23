@@ -28,9 +28,8 @@ MongoDB and multiple others.
 
 ### Connect with me:
 
- <p>Email: rbeer199525@gmail.com</p>
- <p>Skype: live:.cid.84144a3aa43198f4</p>
- <p>Discord: willi49193#0449</p>
+ <p>Email: maksymchabaniuk1@gmail.com</p>
+ <p>WhatsApp: +380933411510</p>
 
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
@@ -99,8 +98,7 @@ MongoDB and multiple others.
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bear49193&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="bear49193" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bear49193&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
