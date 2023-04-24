@@ -34,6 +34,7 @@ MongoDB and multiple others.
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
 <br>🔸 BackEnd - Node, Express, Laravel, Django, Flask
+<br>🔸 CMS - WordPress, Shopify, Webflow 
 <br>🔸 Desktop - Electron, PyQt, Tkinter
 <br>🔸 AWS and MLOPS
 <p>
