@@ -28,7 +28,7 @@ MongoDB and multiple others.
 
 ### Connect with me:
 
- <p>Email: maksymchabaniuk1@gmail.com</p>
+
  <p>WhatsApp: +380933411510</p>
 
 <h2>🥇 Specialised in:</h2>
