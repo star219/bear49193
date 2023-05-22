@@ -29,7 +29,7 @@ MongoDB and multiple others.
 ### Connect with me:
 
 
- <p>WhatsApp: +380933411510</p>
+ <p>Skype: live:.cid.84144a3aa43198f4</p>
 
 <h2>🥇 Specialised in:</h2>
 <br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
